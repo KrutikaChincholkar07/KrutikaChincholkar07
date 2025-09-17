@@ -1,24 +1,51 @@
-<h1 align="center">Hi 👋, I'm Krutika Chincholkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Krutika Chincholkar 👋
 
-<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
+🎓 **Student | B.Tech in Information Technology**  
+📍 Maharashtra, India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikachincholkar&label=Profile%20views&color=0e75b6&style=flat" alt="krutikachincholkar" /> </p>
+---
 
-- 🌱 I’m currently pursuing my degree in **Information Technology(IT)**
+## 🚀 About Me
+Aspiring developer passionate about blending creativity and technology. I thrive in crafting interactive experiences, solving real-world problems, and exploring the intersection of design, development, and intelligent systems.
 
-- 📫 How to reach me **krutikachincholkar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krutika chincholkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika chincholkar" height="30" width="40" /></a>
-<a href="https://fb.com/krutika chincholkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krutika chincholkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@krutikachinchol1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krutikachinchol1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/krutika chincholkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="krutika chincholkar" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills & Interests
+- **Game Development:** Unity3D, C#, Blender, Particle Systems, Physics Engines
+- **Web Development:** HTML, CSS, JavaScript
+- **Machine Learning:** Python, OpenCV, TensorFlow, YOLO
+- **UI/UX Design**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krutikachincholkar&show_icons=true&locale=en&layout=compact" alt="krutikachincholkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krutikachincholkar&show_icons=true&locale=en" alt="krutikachincholkar" /></p>
+## 🌟 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krutikachincholkar&" alt="krutikachincholkar" /></p>
+### 🏃‍♀️ Royal Run (Unity3D, May 2025)
+Conceptualized and fine-tuned an immersive endless runner featuring dynamic obstacle generation, smooth character animation, and progressive difficulty scaling. Integrated responsive touch controls and optimized performance for mobile deployment. Utilized graph traversal to design adaptive level progression logic.
+> **Tech:** Graph Traversal, Unity3D, Blender, C#, Particle System, Physics Engine
+
+### 🚦 Traffic Eye: Smart Vision-Based Traffic Control (Apr 2025)
+Developed an AI-powered traffic light system using YOLO for real-time vehicle detection, dynamically adjusting green light duration based on traffic density. Reduced idle time by 35%, enhanced traffic flow, minimized congestion, and supported smart city scalability.
+> **Tech:** Python, OpenCV, IoT, Machine Learning, YOLO, TensorFlow
+
+---
+
+## ✨ Pattern Projects
+Check out my creative programming projects:
+- [Right-angled Triangle Star Pattern](https://github.com/KrutikaChincholkar07/Right-angled-triangle-star-pattern.)
+- [Diamond Star Pattern](https://github.com/KrutikaChincholkar07/Diamond-Star-Pattern)
+- [Inverted Pyramid Star Pattern](https://github.com/KrutikaChincholkar07/Inverted-Pyramid-Star-Pattern)
+- [Pyramid Star Pattern](https://github.com/KrutikaChincholkar07/Pyramid-Star-Pattern)
+
+---
+
+## 🌐 Connect with Me
+
+- **Location:** Maharashtra, India
+- **LinkedIn:** [krutika-chincholkar-49257b252](https://www.linkedin.com/in/krutika-chincholkar-49257b252/)
+
+---
+
+<!--
+If you’d like to add more sections (e.g., certifications, hobbies, fun facts), just let me know!
+-->
